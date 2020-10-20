@@ -1,6 +1,6 @@
 ## Full-time Student and Game Developer
 
-- 🔭 Currently working on Surviving Exile. A colony management game for PC. [Dwarven Realms Studio][instagram]
+- 🔭 Currently working on [Surviving Exile][instagram]. A colony management game for PC.
 - 🌱 Currently learning Python and OpenCV.
 - 👯 Open to any kind of project.
 
