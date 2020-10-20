@@ -1,6 +1,6 @@
 ## Full-time Student and Game Developer
 
-- 🔭 Currently working on [Surviving Exile][instagram]. A colony management game for PC.
+- 🔭 Currently working on [Surviving Exile][itch]. A colony management game for PC.
 - 🌱 Currently learning Python and OpenCV.
 - 👯 Open to any kind of project.
 
@@ -13,7 +13,8 @@
 
 <br />
 
-[website]: https://donutvendor.github.io
+[website]: https://linktr.ee/dwarvenrealms
+[itch]: https://dwarvenrealms.itch.io/
 [twitter]: https://twitter.com/dwarvenrealms
 [instagram]: https://instagram.com/dwarvenrealms
 [linkedin]: https://linkedin.com/in/devon-mickels
